@@ -1,0 +1,47 @@
+{
+  "profile": {
+    "name": "Ziad Rammal",
+    "title": "Computer Vision & Deep Learning Engineer",
+    "bio": "Étudiant en Master 2 EEA (parcours SIA2) à l'Université de Toulouse. Recherche un stage de fin d'études de 4 à 6 mois à partir de mars 2027 en vision par ordinateur, reconstruction 3D et deep learning.",
+    "location": "Toulouse, France"
+  },
+  "links": {
+    "linkedin": "https://linkedin.com/in/ziad-rammal-a402601b4",
+    "github": "https://github.com/ZiadRAMMAL",
+    "cv": "assets/cv_ziad_rammal.pdf",
+    "cover_letter": "assets/lettre_motivation_ziad_rammal.pdf",
+    "email": "votre.email@domaine.com"
+  },
+  "projects": [
+    {
+      "id": "vision-cxx",
+      "title": "Système de Vision par Ordinateur en C++",
+      "description": "Travail en groupe de grande envergure axé sur la conception d'un système de vision par ordinateur en C++ et la gestion de projet.",
+      "github_url": ""
+    },
+    {
+      "id": "sign-language",
+      "title": "Reconnaissance de Langue des Signes Arabe",
+      "description": "Application deep learning de reconnaissance de la langue des signes sous PyTorch/TensorFlow avec interface interactive Streamlit.",
+      "github_url": "https://github.com/ZiadRAMMAL/Arabic-Sign-Language-Classification",
+      "app_url": "https://arabic-sign-language-classification-ndsm4odtfjabqqedhhxiwr.streamlit.app/"
+    },
+    {
+      "id": "plasma-modeling",
+      "title": "Modélisation de Plasma par Algorithme Génétique (Langage C)",
+      "description": "Implémentation d'un algorithme génétique binaire en langage C avec analyse MATLAB pour la modélisation de plasma.",
+      "github_url": "https://github.com/ZiadRAMMAL/genetic-algorithm-plasma-l3"
+    },
+    {
+      "id": "lisa-signal",
+      "title": "Séparation de Sources pour la Mission LISA (IRAP)",
+      "description": "Stage R&D en machine learning et traitement du signal réalisé à l'Institut de Recherche en Astrophysique et Planétologie (IRAP) en Python.",
+      "github_url": "https://github.com/ZiadRAMMAL/lisa-source-separation"
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "C", "C++", "MATLAB"],
+    "frameworks_ai": ["PyTorch", "TensorFlow", "OpenCV", "Streamlit"],
+    "tools": ["Git", "Catia V5", "LTSpice", "KiCad"]
+  }
+}
